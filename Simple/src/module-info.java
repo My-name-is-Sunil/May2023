@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lenovo
+ *
+ */
+module Simple {
+}
